@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "rocketProjects"
+    }
+  },
+  "defaultProject": "rocketProjects",
+  "cli": {
+    "analytics": "f99e6b7e-b962-4f5a-ac79-91fc01ee1ceb"
+  }
 }
